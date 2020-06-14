@@ -1,4 +1,4 @@
 
-1) W porownaniu wykresy analogiczne. To jest przez niedoklady modelu.
+1) W porownaniu wykresy analogiczne. To jest przez niedokladny model.
 2) Hipotetycznie im dluzszy okres symulacji, tym wiecej danych i tym dokladniejsza symulacja. 
 W tym modelu jest inaczej, krotszy okres wplywal lepiej na symulacje. 
